@@ -6,8 +6,8 @@ author:
 date: '2018-03-27'
 slug: medical-image-viewer
 images:
-  - /images/reviewing-pt-chart.jpg
-coverImage: /images/reviewing-pt-chart.jpg
+  - /images/doctor-reviewing-pt-chart.jpg
+coverImage: /images/doctor-reviewing-pt-chart.jpg
 featured: true
 coverImageStyle: full
 ---
