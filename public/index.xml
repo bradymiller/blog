@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openemr.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenEMR Medical Image Viewer</title>
+      <link>https://www.openemr.blog/post/medical-image-viewer/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openemr.blog/post/medical-image-viewer/</guid>
+      <description>A team of software engineers within our community recently built the first major medical imaging feature into the system. Given a DICOM file in a patient chart, users can now utilize an easy-to-use medical image visualizer.
+By using a capable open-source, web-based DICOM image viewer, OpenEMR provides clinicians a quick, secure, and robust view into patient images with windowing, panning, zooming, and filtering support. The underlying technology is based on the DICOM Web Viewer (DWV) open-source project led by Yves Martelli, a software engineer and medical imaging expert.</description>
+    </item>
     
     <item>
       <title>Accepting Donations on OpenCollective</title>
