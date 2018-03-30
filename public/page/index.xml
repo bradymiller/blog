@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.openemr.blog/page/contact/</guid>
-      <description>Contact Blog Administrator
-Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+      <description>Contact Us
+You can contact us on the forums or chat.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam s
       
       <guid>https://www.openemr.blog/page/about/</guid>
       <description>OpenEMR is the most popular open source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR&amp;rsquo;s goal is a superior alternative to its proprietary counterparts. With passionate volunteers and contributors dedicated to guarding OpenEMR&amp;rsquo;s status as a free, open source software solution for medical practices with a commitment to openness, kindness and cooperation.
-To stay connected, subscribe to the RSS feed of this blog posts, or follow us on Twitter @openemr.</description>
+OpenEMR is ONC Meaningful Use Stage 2 Certified as a Complete EHR.</description>
     </item>
     
   </channel>
