@@ -6,14 +6,11 @@ copyright: OEMR
 disqusShortname: openemr
 googleAnalytics: UA-8316288-11
 ignoreFiles:
-  - \\.Rmd$
-  - \\.Rmarkdown$
   - _files%
   - _cache$
 taxonomies:
-  tag: tags
-  category: categories
-
+  tag: ""
+  category: ""
 params:
   # Required theme-specific variables
   twitterImage: /images/test.jpg
@@ -25,7 +22,7 @@ params:
   github: "https://github.com/openemr"
   linkedin: ""
   gplus: https://plus.google.com/106799034872780958301
-  twitter: openemr
+  twitter: https://twitter.com/openemr
   facebook: https://www.facebook.com/OpenEMR-181315115284266
   stackoverflow: ""
   email: blog@oemr.org
@@ -46,10 +43,10 @@ permainks:
 menu:
   main:
     - name: Docs
-      url: http://open-emr.org/wiki/
+      url: https://www.open-emr.org/wiki/
     - name: Community
       url: https://community.open-emr.org
     - name: Chat
       url: https://chat.open-emr.org
     - name: open-emr.org
-      url: http://open-emr.org
+      url: https://www.open-emr.org

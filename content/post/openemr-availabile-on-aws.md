@@ -3,9 +3,6 @@ title: OpenEMR Announces Initial Availability of OpenEMR Cloud on AWS
 author:
   name: Matthew Vita
   twitter: matthewvita
-aliases: 
-  - 2017/08/15/2017-08-15-openemr-announces-initial-availability-of-openemr-cloud-on-aws/
-  - openemr-available-on-aws
 date: '2017-08-15'
 slug: openemr-announces-initial-availability-of-openemr-cloud-on-aws
 summary: >
@@ -16,11 +13,6 @@ images:
   - /images/OpenEMR_Cloud.png
 coverImage: /images/OpenEMR_Cloud.png
 featured: true
-categories:
-  - Cloud
-tags:
-  - AWS
-  - Cloud
 ---
 
 [Setup Guide](https://github.com/openemr/openemr-devops/tree/master/packages/full_stack#openemr-cloud-full-stack)

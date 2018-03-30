@@ -2,6 +2,7 @@
 title: Accepting Donations on OpenCollective
 author:
   name: Dr. Brady Miller
+  twitter: millerbrady
 date: '2017-12-18'
 slug: accepting-donations-on-opencollective
 images:
