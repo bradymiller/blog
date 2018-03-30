@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
-    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openemr.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenEMR, A Great Long Term Choice</title>
+      <link>https://www.openemr.blog/post/great-long-term-choice/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openemr.blog/post/great-long-term-choice/</guid>
+      <description>Choosing a free and open source EMR with a history of success around the world is a great move for those looking to avoid vendor lock-in. As a mature project with a vibrant community, OpenEMR is a great choice for the long term because the provider owns both the data and the software, and cannot be charged for it &amp;ndash; ever!
+Our group has recently noticed an uptick in cost-sensitive clinicians moving from a previously freeware EMR that introduced a new pricing model.</description>
+    </item>
     
     <item>
       <title>OpenEMR Medical Image Viewer</title>
