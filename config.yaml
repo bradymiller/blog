@@ -4,7 +4,7 @@ theme: openemr
 languageCode: en-us
 copyright: OEMR
 disqusShortname: openemr
-googleAnalytics: UA-8316288-11
+googleAnalytics: UA-8316288-7
 ignoreFiles:
   - _files%
   - _cache$
