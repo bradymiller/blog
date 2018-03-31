@@ -6,7 +6,8 @@ author:
 date: '2017-12-18'
 images:
   - images/healthhacks-follow-up-cover.jpg
-coverImage: /images/group_watch.jpg
+  - images/healthhacks_fu_share.jpg
+coverImage: images/group_watch.jpg
 featured: true
 coverImageStyle: full
 ---

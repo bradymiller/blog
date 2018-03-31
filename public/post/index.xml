@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on OpenEMR</title>
+    <title>Posts on OpenEMR Blog</title>
     <link>https://www.open-emr.org/blog/post/</link>
-    <description>Recent content in Posts on OpenEMR</description>
+    <description>Recent content in Posts on OpenEMR Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
