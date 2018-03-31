@@ -1,5 +1,5 @@
 title: OpenEMR
-baseurl: https://www.openemr.blog/
+baseurl: https://www.open-emr.org/blog/
 theme: openemr
 languageCode: en-us
 copyright: OEMR
@@ -13,6 +13,7 @@ taxonomies:
   category: ""
 params:
   # Required theme-specific variables
+  mainSiteUrl: https://www.open-emr.org/
   twitterImage: /images/test.jpg
   coverImageStyle: standard
   twitterCardType: summary
@@ -42,11 +43,24 @@ permainks:
 
 menu:
   main:
-    - name: Docs
+    - name: Features
+      url: https://www.open-emr.org/wiki/index.php/OpenEMR_Features
+      weight: -180
+    - name: Demo
+      url: https://www.open-emr.org/demo
+      weight: -170
+    - name: Downloads
+      url: https://www.open-emr.org/wiki/index.php/OpenEMR_Downloads
+      weight: -160
+    - name: Blog
+      url: https://www.open-emr.org/blog/
+      weight: -140
+    - name: Wiki
       url: https://www.open-emr.org/wiki/
-    - name: Community
+      weight: -130
+    - name: Forum
       url: https://community.open-emr.org
+      weight: -120
     - name: Chat
       url: https://chat.open-emr.org
-    - name: open-emr.org
-      url: https://www.open-emr.org
+      weight: -110

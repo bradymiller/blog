@@ -9,8 +9,8 @@ summary: >
     OpenEMR is proud to be a contributing sponsor of the second annual 
     "HealthHacks" medical hackathon at Virginia Commonwealth University.
 images:
-    - /images/healthhacks-vcu.jpg
-coverImage: /images/healthhacks-vcu.jpg
+    - images/healthhacks-vcu.jpg
+coverImage: images/healthhacks-vcu.jpg
 coverImageStyle: full
 featured: true
 ---

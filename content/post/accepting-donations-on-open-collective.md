@@ -6,8 +6,8 @@ author:
 date: '2017-12-18'
 slug: accepting-donations-on-opencollective
 images:
-  - /images/collective-sharing.jpg
-coverImage: /images/collective-sharing.jpg
+  - images/collective-sharing.jpg
+coverImage: images/collective-sharing.jpg
 featured: true
 coverImageStyle: full
 ---

@@ -6,8 +6,8 @@ summary: >
     OpenEMR is proud to be a contributing sponsor of the second annual 
     "HealthHacks" medical hackathon at Virginia Commonwealth University.
 images:
-    - /images/maria-puerto-rico.jpg
-coverImage: /images/maria-puerto-rico.jpg
+    - images/maria-puerto-rico.jpg
+coverImage: images/maria-puerto-rico.jpg
 coverImageStyle: full
 featured: true
 ---
