@@ -23,6 +23,12 @@
                         {{ .Name }}
                     </a>
                 </li>
+                {{ end }} {{ with .Site.Params.facebook }}
+                <li>
+                    <a href="{{ . }}" class="nav-item">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
                 {{ end }} {{ with .Site.Params.twitter }}
                 <li>
                     <a href="{{ . }}" class="nav-item">
