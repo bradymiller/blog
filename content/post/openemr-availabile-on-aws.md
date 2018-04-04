@@ -43,12 +43,12 @@ resources are automatically relaxed, resulting in minimized costs.
 
 #### Cutting-edge Information Security
 
-Superior information security, include physical, network, and software security,
+Superior information security including physical, network, and software security
 is designed into OpenEMR and AWS, offloading significant privacy and security
-demands on healthcare providers. OpenEMR Cloud is fully compliant with HIPAA
+demands on healthcare providers. OpenEMR Cloud Full Stack is fully compliant with HIPAA
 Privacy and Security Rules.
 
-#### Zero On-Site Hardare and Software
+#### Zero On-Site Hardware and Software
 
 OpenEMR Cloud Full Stack runs hardware and software provided by OpenEMR and
 Amazon Web Services; no on-site software, servers nor related equipment are
@@ -56,11 +56,11 @@ required.
 
 #### Easy Deployment
 
-With only a few simple steps, including specification of OpenEMR Cloud Full
+With only a few simple steps including specification of OpenEMR Cloud Full
 Stack's [CloudFormation
 template](https://github.com/openemr/openemr-devops/blob/master/packages/full_stack/assets/OpenEMR.json),
 healthcare providers "spin up" their own full stack instance of OpenEMR in the
-cloud. Customizations are tested and deployed with ease, with OpenEMR Cloud's
+cloud. Customizations are tested and deployed with ease with OpenEMR Cloud's
 continuous deployment model.
 
 #### Robust Backup and Recovery Solutions
@@ -68,7 +68,7 @@ continuous deployment model.
 Automated backups, disaster recovery, and system redundancy are standard in
 OpenEMR Cloud Full Stack, fine tuned for clinic and institutional needs.
 
-Before OpenEMR Cloud,  OpenEMR users deployed software on physical servers or
+Before OpenEMR Cloud, OpenEMR users deployed software on physical servers or
 contracted a professional vendor to provide private cloud or managed on-site
 solutions. "OpenEMR Cloud provides a modern option for healthcare providers to
 leverage the cloud on their own terms, with limited maintenance burden and low
@@ -112,7 +112,7 @@ capabilities including a modern user interface. Custom features are easily
 developed and implemented to meet the needs and demands of practices and
 institutions.
 
-OpenEMR Full Stack is 100% HIPAA compliant for covered entities,  requiring only
+OpenEMR Full Stack is 100% HIPAA compliant for covered entities, requiring only
 a few extra clicks during deployment. Covered entities are assured of compliance
 by OpenEMR's federally certified software, HIPAA compliant cloud services, and
 AWS's Business Associate services.
