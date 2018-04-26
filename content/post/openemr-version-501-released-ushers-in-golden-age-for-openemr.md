@@ -3,7 +3,7 @@ title: "OpenEMR Version 5.0.1 Released: Ushers in Golden Age for OpenEMR"
 author:
   name: Dr. Brady Miller
   twitter: millerbrady
-date: '2018-04-24'
+date: '2018-04-26'
 slug: openemr-version-501-released-ushers-in-golden-age-for-openemr
 featured: true
 images:
@@ -13,7 +13,7 @@ featured: true
 coverImageStyle: full
 ---
 
-[OpenEMR](https://www.open-emr.org), the most popular open source electronic health records (EHR) and medical practice management solution, has announced that OpenEMR version 5.0.1 has been released.
+[OpenEMR](https://www.open-emr.org), the most popular open source electronic health records (EHR) and medical practice management solution, released OpenEMR version 5.0.1 on April 23, 2018.
 
 A community of more than 50 OpenEMR contributors produced a staggering amount of new features and improvements for OpenEMR 5.0.1. “The amount of new features and improvements in this new release of OpenEMR is simply astounding and showcases the strengths, diversity, talents, commitment, productivity, and good will of the thriving OpenEMR community,” said Dr. Brady Miller, an OpenEMR project administrator and physician.
 
