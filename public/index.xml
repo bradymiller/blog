@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
-    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.open-emr.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>OpenEMR Version 5.0.1 Released: Ushers in Golden Age for OpenEMR</title>
       <link>https://www.open-emr.org/blog/post/openemr-version-501-released-ushers-in-golden-age-for-openemr/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.open-emr.org/blog/post/openemr-version-501-released-ushers-in-golden-age-for-openemr/</guid>
-      <description>OpenEMR, the most popular open source electronic health records (EHR) and medical practice management solution, has announced that OpenEMR version 5.0.1 has been released.
+      <description>OpenEMR, the most popular open source electronic health records (EHR) and medical practice management solution, released OpenEMR version 5.0.1 on April 23, 2018.
 A community of more than 50 OpenEMR contributors produced a staggering amount of new features and improvements for OpenEMR 5.0.1. “The amount of new features and improvements in this new release of OpenEMR is simply astounding and showcases the strengths, diversity, talents, commitment, productivity, and good will of the thriving OpenEMR community,” said Dr.</description>
     </item>
     
