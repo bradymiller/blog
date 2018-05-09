@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
-    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.open-emr.org/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenEMR Cloud Standard Edition Now Available in AWS Marketplace</title>
+      <link>https://www.open-emr.org/blog/post/openemr-cloud-standard-edition-now-available-in-aws-marketplace/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.open-emr.org/blog/post/openemr-cloud-standard-edition-now-available-in-aws-marketplace/</guid>
+      <description>OpenEMR, the most popular open-source electronic health record (EHR) and medical practice management solution, has launched OpenEMR Cloud Standard Edition in AWS Marketplace.
+&amp;ldquo;OpenEMR Cloud Standard is the first EHR in the Amazon Marketplace directly aimed at domestic US providers,&amp;rdquo; said Asher Densmore-Lynn, an OpenEMR architect. &amp;ldquo;We&amp;rsquo;ve leaned on Amazon&amp;rsquo;s orchestration services and our own state-of-the-art deployment practices to provide robust, direct answers to HIPAA&amp;rsquo;s challenges.&amp;rdquo;
+OpenEMR Cloud Standard is the HIPAA-eligible, Marketplace edition of the OpenEMR Cloud product line.</description>
+    </item>
     
     <item>
       <title>OpenEMR Version 5.0.1 Released: Ushers in Golden Age for OpenEMR</title>
