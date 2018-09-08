@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>OEMR</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.open-emr.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Features to Look For in Your Medical Practice Management Software</title>
+      <link>https://www.open-emr.org/blog/post/7-features-to-look-for-in-your-medical-practice-management-software/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.open-emr.org/blog/post/7-features-to-look-for-in-your-medical-practice-management-software/</guid>
+      <description>Running any successful business can be a difficult task without the right tools and services in place to manage different everyday tasks. Not to mention, the sheer amount of data that must be collected, organized and made accessible when dealing directly with clients or customers. This rings especially true for healthcare and medical practices.
+Between the sheer number of clients, billing, scheduling, insurance and medical records, it is critical that a medical practice has their data in order.</description>
+    </item>
     
     <item>
       <title>OpenEMR Offers a Panel of Turn-Key Solutions with Amazon&#39;s Cloud Services</title>
